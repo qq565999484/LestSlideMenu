@@ -11,6 +11,9 @@ LeftSlideMenu(leftViewController:
 ---
 <br>
 <br>
-##![pic]()
-
-
+##示例图1
+##![pic](https://github.com/qq565999484/LestSlideMenu/blob/master/LeftSlideMenuExample/VCToNav.gif)
+<br>
+<br>
+##示例图2
+##![pic](https://github.com/qq565999484/LestSlideMenu/blob/master/LeftSlideMenuExample/VCToTabBarVC.gif)
