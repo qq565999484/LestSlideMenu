@@ -9,6 +9,6 @@ LeftSlideMenu(leftViewController:
              UIStoryboard(name: "Root", bundle: Bundle.main).instantiateInitialViewController()!)
 ```
 <br>
----
+-
 <br>
 ##![pic]()
