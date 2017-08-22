@@ -8,15 +8,6 @@
 
 import UIKit
 
-extension UIStoryboard {
-
-    
-
-
-
-}
-
-
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
